@@ -31,5 +31,5 @@ python collatz_soft.py
 
 4.Enter a number → the program generates a melody.
 
- Listen to the result in collatz_soft.wav.
+ Listen to the result in collatz_soft.wav !
 
